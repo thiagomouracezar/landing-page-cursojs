@@ -25,3 +25,10 @@
 .menu-spacing {
     height: 65px;
 }
+
+.sub-h2 {
+   font-size: 8rem; 
+   margin-bottom: 5rem;
+   font-family: 'Montserrat', sans-serif;
+   text-transform: uppercase;
+}

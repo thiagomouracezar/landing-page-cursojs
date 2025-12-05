@@ -1,2 +1,24 @@
 
 
+
+
+.intro-content {
+    position: relative;
+    top: -6rem;
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: var(--gap);
+    height: 100vh;
+
+}
+
+.intro-text-content {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    
+
+}
+
+
+
